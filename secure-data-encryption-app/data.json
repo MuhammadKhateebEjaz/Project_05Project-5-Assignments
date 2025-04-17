@@ -1,0 +1,12 @@
+//   Encrypted user data storage
+
+
+
+{
+  "user_data": {
+    "username": "encrypted_username",
+    "password": "encrypted_password",
+    "email": "encrypted_email"
+  },
+  "encryption_key": "secure_encryption_key"
+}
