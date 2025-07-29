@@ -2,6 +2,7 @@
 cryptography
 streamlit
 cryptography
-git add app.py requirements.txt
-git commit -m "Fixed Fernet import and added cryptography to requirements"
+
+git add requirements.txt
+git commit -m "Fix requirements with stable versions"
 git push
