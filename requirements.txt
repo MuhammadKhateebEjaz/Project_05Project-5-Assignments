@@ -1,8 +1,10 @@
 # Python dependencies
-cryptography
-streamlit
-cryptography
+
+streamlit==1.35.0
+cryptography==42.0.5
 
 git add requirements.txt
-git commit -m "Fix requirements with stable versions"
+git commit -m "Fix: add correct versions for streamlit and cryptography"
 git push
+
+pip install -r requirements.txt
