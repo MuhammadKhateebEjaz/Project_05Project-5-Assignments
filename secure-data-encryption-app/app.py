@@ -1,5 +1,6 @@
 # Main Streamlit app
 import streamlit as st
+import Fernet
 from cryptography.fernet import Fernet
 import os
 import json
